@@ -1,4 +1,4 @@
-Loom Video for Pyhton: https://www.loom.com/share/02b3e48c22af4aa18643fd58c095f25d
+Loom Video for Python: https://www.loom.com/share/02b3e48c22af4aa18643fd58c095f25d
 # Activity: Assign Python Variables
 
 ## Introduction
